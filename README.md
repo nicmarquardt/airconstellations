@@ -2,6 +2,7 @@
 
 This repository provides STL files for 3D-printing the sensor cases, enclosures, and other attachments for building an AirConstellations armature. Please refer to our paper for more details about the technical setup of our hardware.
 
+![Visual overview of the AirConstellations project](https://github.com/nicmarquardt/airconstellations/blob/main/Figures/Overview.png?raw=true)
 
 ### AirConstellations: In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
 Publication at UIST 2021 – ACM Symposium on User Interface Software and Technology.
