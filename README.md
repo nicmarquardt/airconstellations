@@ -1,9 +1,9 @@
 # AirConstellations Project (UIST 2021)
 
-This repository includes STL files for 3D-printing the sensor cases, enclosures, and other attachments for building an AirConstellations armature. Please refer to our paper for more details about the technical setup of our hardware.
+This repository provides STL files for 3D-printing the sensor cases, enclosures, and other attachments for building an AirConstellations armature. Please refer to our paper for more details about the technical setup of our hardware.
 
 
-## AirConstellations: In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
+### AirConstellations: In-Air Device Formations for Cross-Device Interaction via Multiple Spatially-Aware Armatures
 Publication at UIST 2021 – ACM Symposium on User Interface Software and Technology.
 
 _Project by Nicolai Marquardt, Nathalie Henry Riche, Christian Holz, Hugo Romat, Michel Pahud, Frederik Brudy, David Ledo, Chunjong Park, Molly Jane Nicholas, Teddy Seyed, Eyal Ofek, Bongshin Lee, William A.S. Buxton, Ken Hinckley_
